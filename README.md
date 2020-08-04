@@ -1,6 +1,6 @@
 # "Self" in Ruby Conclusion
 
-This module has revealed to you the mysteries of Ruby's `self` keyword. Remember
+In the last few lessons, we've revealed to you the mysteries of Ruby's `self` keyword. Remember
 that you can think of `self` as a Ruby program asking the question: "Who am I
 right now?" It's a special variable that points to the object associated with
 the code we're currently executing. We walked through how to use it properly. We
