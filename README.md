@@ -1,4 +1,4 @@
-# "Self" in Ruby Conclusion
+# Self Conclusion
 
 This module has revealed to you the mysteries of Ruby's `self` keyword. Remember
 that you can think of `self` as a Ruby program asking the question: "Who am I
